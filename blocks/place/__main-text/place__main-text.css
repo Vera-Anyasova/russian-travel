@@ -1,0 +1,11 @@
+.place__main-text {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+@media screen and (max-width: 568px) {
+  .place__main-text {
+    margin: 0 16px;
+  }
+}

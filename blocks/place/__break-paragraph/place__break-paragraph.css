@@ -1,0 +1,11 @@
+@media screen and (max-width: 1124px) {
+  .place__break-paragraph {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .place__break-paragraph {
+    display: inline-block;
+  }
+}
