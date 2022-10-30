@@ -4,6 +4,7 @@
   text-decoration: underline;
   margin: 0;
   color: #fff;
+  max-width: fit-content;
 }
 
 .place__website-link:hover {

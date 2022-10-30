@@ -2,13 +2,14 @@
   font-size: 24px;
   line-height: 1.17;
   color: #fff;
-}
-
-.header__lang-link:last-of-type {
   text-decoration: none;
 }
 
-@media screen and (max-width: 568px) {
+.header__lang-link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 700px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 1.11;
