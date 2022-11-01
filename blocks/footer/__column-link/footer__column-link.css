@@ -3,18 +3,14 @@
   list-style-type: none;
 }
 
-.footer__column-link:last-of-type {
-  margin-right: 0px;
-}
-
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 715px) {
   .footer__column-link {
     margin-right: 0;
     padding-bottom: 32px;
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 715px) {
   .footer__column-link:last-of-type {
     padding-bottom: 0px;
   }
