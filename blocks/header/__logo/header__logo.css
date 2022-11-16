@@ -1,5 +1,4 @@
 .header__logo {
-  box-sizing: border-box;
   width: 100%;
   object-fit: cover;
   max-width: 176px;
